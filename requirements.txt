@@ -5,4 +5,7 @@ faiss-cpu
 pypdf
 ipykernel
 langchain-ollama
+unstructured
+python-magic
+python-pptx
 #to activate environment myenv\Scripts\activate
