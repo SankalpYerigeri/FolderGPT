@@ -1,0 +1,8 @@
+langchain
+flask
+langchain-community
+faiss-cpu
+pypdf
+ipykernel
+
+#to activate environment myenv\Scripts\activate
