@@ -4,5 +4,5 @@ langchain-community
 faiss-cpu
 pypdf
 ipykernel
-
+langchain-ollama
 #to activate environment myenv\Scripts\activate
